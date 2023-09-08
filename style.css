@@ -1,0 +1,26 @@
+/* Heading Styles Begin Here */
+
+h2 {
+    color: blue;
+    font-family: sans-serif;
+    font-size: 300%;
+    background-color: orange;
+}
+
+h3 {
+    color:orangered;
+    font-family: sans-serif;
+    font-size: 150%;
+    background-color:bisque
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 90%;
+}
+
+ol {
+    font-family: sans-serif;
+    font-size: 90%;
+    background-color:antiquewhite;
+}
